@@ -40,6 +40,7 @@
 ---
 
 ## 📷 Screenshot 
+<img width="1889" height="956" alt="image" src="https://github.com/user-attachments/assets/38564a86-03a3-42c4-a642-2a2ac23642b2" />
 
 ---
 
