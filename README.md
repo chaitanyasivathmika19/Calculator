@@ -39,8 +39,7 @@
 
 ---
 
-## 📷 Screenshot (Optional)
-*(Add a screenshot of your calculator UI here once styled.)*
+## 📷 Screenshot 
 
 ---
 
