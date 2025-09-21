@@ -53,10 +53,10 @@ Clean design, smooth interactions, and accurate calculations — perfect for pra
 ## 📂 Project Structure
 
 / (root)  
-│── index.html   #🏗️ #Main calculator layout  
-│── style.css    #🎨 #Styling & responsiveness  
-│── main.js      #⚡ #Core logic & interactivity  
-│── README.md    #📘 #Documentation  
+│── index.html        #🏗️ Main calculator layout  
+│── style.css         #🎨 Styling & responsiveness  
+│── main.js           #⚡ Core logic & interactivity  
+│── README.md         #📘 Documentation  
 
 
 ---
